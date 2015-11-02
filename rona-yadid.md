@@ -1,0 +1,5 @@
+- [ ] *Rona Yadid*
+- [ ] *Israel*
+- [ ] *Pizza*
+- [ ] *Dogs*
+- [ ] *Blue*
