@@ -1,5 +1,5 @@
-- [ ] *Rona Yadid*
-- [ ] *Israel*
-- [ ] *Pizza*
-- [ ] *Dogs*
-- [ ] *Blue*
+- [ ] Name: *Rona Yadid*
+- [ ] Country: *Israel*
+- [ ] Favorite food: *Pizza*
+- [ ] Favorite pet: *Dogs*
+- [ ] Favorite color: *Blue*
