@@ -2,3 +2,4 @@
 - [ ] *Israel*
 - [ ] *Pizza*
 - [ ] *Dogs*
+- [ ] *Blue*
